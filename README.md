@@ -17,7 +17,7 @@ Welcome to my GitHub profile! I'm a dedicated software developer with a passion 
 ![Docker](https://img.shields.io/badge/Docker-%232496ED.svg?style=flat&logo=docker&logoColor=white) ![Jenkins](https://img.shields.io/badge/Jenkins-%23D24939.svg?style=flat&logo=jenkins&logoColor=white) ![Git](https://img.shields.io/badge/Git-%23F05032.svg?style=flat&logo=git&logoColor=white)
 
 - **Cloud:** 
-  - ![AWS](https://img.shields.io/badge/Amazon%20AWS-%23232F3E.svg?style=flat&logo=amazonaws&logoColor=white) 
+![AWS](https://img.shields.io/badge/Amazon%20AWS-%23232F3E.svg?style=flat&logo=amazonaws&logoColor=white) 
 
 ## 🌱 Currently Exploring
 
