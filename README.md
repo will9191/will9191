@@ -19,12 +19,9 @@ Welcome to my GitHub profile! I'm a dedicated software developer with a passion 
 - **Cloud:** 
 ![AWS](https://img.shields.io/badge/Amazon%20AWS-%23232F3E.svg?style=flat&logo=amazonaws&logoColor=white) 
 
-## 🌱 Currently Exploring
+## 🌱 Learning
 
-I’m always eager to learn and grow. Currently, I'm diving into:
-
-- Advanced TypeScript concepts and state management in Angular
-- Microservices architecture and deployment strategies
+I am always eager to learn and grow. There is never too much knowledge in this life and I am constantly learning.
 
 ## 💼 About Me
 
