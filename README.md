@@ -1,6 +1,6 @@
 # 👋 Hi there! I'm Will
 
-Welcome to my GitHub profile! I'm a dedicated software developer with a passion for crafting high-quality applications using **Angular**, **Java**, and **Spring Boot**. Just as I push my limits in **heavy weightlifting**, I strive to push the boundaries of technology and innovation in my projects.
+Welcome to my GitHub profile! I'm a dedicated software developer with a passion for crafting high-quality applications. Just as I push my limits in **heavy weightlifting**, I strive to push the boundaries of technology and innovation in my projects.
 
 ## 🚀 Technologies I Love
 
