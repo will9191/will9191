@@ -41,7 +41,7 @@ I believe that coding is not just about writing lines of code; it’s about solv
 I’m always open to networking and collaboration! You can find me here:
 
 - [LinkedIn](https://www.linkedin.com/in/will9191/)
-- [Email](mailto:willian.contato91@gmail.com)
+- [Email](mailto:willian.fernando040@gmail.com)
 
 ## 🎯 My Goals
 
